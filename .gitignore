@@ -1,0 +1,17 @@
+# Ignore local IDE settings and build outputs at every project level.
+.idea/
+.vscode/
+*.iml
+target/
+out/
+*.class
+
+# Local secrets and configuration.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+application-local.properties
+application-local.yml
+application-local.yaml

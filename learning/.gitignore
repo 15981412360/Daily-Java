@@ -1,0 +1,21 @@
+# Build and local IDE state
+target/
+out/
+*.class
+.idea/
+*.iml
+.vscode/
+
+# Secrets and machine-specific settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+application-local.properties
+application-local.yml
+application-local.yaml
+
+# OS files
+Thumbs.db
+.DS_Store

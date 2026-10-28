@@ -4,9 +4,9 @@
 
 已指定仓库：https://github.com/15981412360/Daily-Java（公开）。本地 Daily-Java 是完整 Git 克隆，课程在 learning/，保留仓库原有 README。connector 可读但写入返回 403；本机 Git 经允许的网络访问可通过 HTTPS 读取，因此改用本机 Git 提交和推送。SSH 暂未验证成功。首次推送已成功，记录见本文末尾。
 
-首次提交为课程准备：任务表、讲义、练习骨架与日志模板。目前 Day01 代码已审阅通过、日志待补充，Day02 讲义已准备。现在的长期工作目录为 D:\code\Java\Daily-Java。
+首次提交为课程准备：任务表、讲义、练习骨架与日志模板。目前 Day01、Day02 代码运行检查通过，解释题尚待补充；Day03 讲义已准备。长期工作目录为 D:\code\Java\Daily-Java。
 
-Day02 增加了 [Git/GitHub 实操教程](lessons/day02-github.md)。本次把查看差异、暂存、提交、推送留给学习者亲手练习；助手尚未代为提交本次改动。后续仍可请助手检查并帮助上传。
+Day02 增加了 [Git/GitHub 实操教程](lessons/day02-github.md)。学习者已亲手提交并上传 Day01/Day02，本轮核验通过。Day02 日志在提交后又有修改，因此网页内容与最新本地日志尚未完全同步；本次批改和 Day03 准备也需后续提交。后续仍可请助手检查并帮助上传。
 
 ## 每日工作流
 
@@ -30,3 +30,5 @@ Day02 增加了 [Git/GitHub 实操教程](lessons/day02-github.md)。本次把�
 ## 已验证的上传记录
 
 2026-10-28：本机 Git 通过 HTTPS 成功推送课程准备提交 [feb36a5](https://github.com/15981412360/Daily-Java/commit/feb36a5)。内容是路线、首课讲义与练习模板，不代表学习者已完成 Day01。本机推送认证已验证可用；后续继续使用此方式。
+
+2026-10-28：核实学习者已上传 [Day01：4e73573](https://github.com/15981412360/Daily-Java/commit/4e73573) 和 [Day02：b4134a9](https://github.com/15981412360/Daily-Java/commit/b4134a980720af05f67981d43852d16fb89bf8ec)。远端 main 与本地 HEAD 一致，源码已上传。远端 Day02 日志仍有未填写解释题与未勾选自查；本地后来勾选的自查尚未提交。请区分“提交已上传”和“工作区全部同步”。

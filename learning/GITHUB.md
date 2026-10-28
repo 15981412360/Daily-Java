@@ -2,7 +2,7 @@
 
 ## 当前状态
 
-已指定仓库：https://github.com/15981412360/Daily-Java（公开）。本地 Daily-Java 是完整 Git 克隆，课程在 learning/，保留仓库原有 README。connector 可读但写入返回 403；本机 Git 经允许的网络访问可通过 HTTPS 读取，因此改用本机 Git 提交和推送。SSH 暂未验证成功。首次推送状态见本文末尾。
+已指定仓库：https://github.com/15981412360/Daily-Java（公开）。本地 Daily-Java 是完整 Git 克隆，课程在 learning/，保留仓库原有 README。connector 可读但写入返回 403；本机 Git 经允许的网络访问可通过 HTTPS 读取，因此改用本机 Git 提交和推送。SSH 暂未验证成功。首次推送已成功，记录见本文末尾。
 
 首次提交为课程准备：任务表、讲义、练习骨架与日志模板。Day01 仍为未开始，之后将按真实学习进度记录。
 
@@ -24,3 +24,7 @@
 当前采用本机 Git 的 HTTPS 远端。提交前检查暂存差异，推送后核对远端 SHA；如需要认证，使用 Git Credential Manager 或浏览器登录，不要把访问令牌发到聊天中。
 
 本次请求建立的是学习与上传流程；尚未配置定时任务。后续需在学完后触发审阅和上传。
+
+## 已验证的上传记录
+
+2026-10-28：本机 Git 通过 HTTPS 成功推送课程准备提交 [feb36a5](https://github.com/15981412360/Daily-Java/commit/feb36a5)。内容是路线、首课讲义与练习模板，不代表学习者已完成 Day01。本机推送认证已验证可用；后续继续使用此方式。

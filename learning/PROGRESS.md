@@ -7,7 +7,7 @@
 - 已完成的学习：尚无。
 - 已准备：本机检查、32 周任务表、首日讲义、可编译练习骨架、日志模板。
 - 下一步：学习者在 IDEA 中完成 Day01Practice.java 和 logs/day01.md，之后触发审阅。
-- GitHub：15981412360/Daily-Java，公开仓库；课程位于 learning/。仓库已通过 HTTPS 克隆到本地，读取成功；connector 写入返回 403，因此使用本机 Git 提交和推送。首次推送结果见 GITHUB.md。
+- GitHub：15981412360/Daily-Java，公开仓库；课程位于 learning/。仓库已通过 HTTPS 克隆到本地，读取成功；connector 写入返回 403，因此使用本机 Git 提交和推送。首次课程准备已推送成功：feb36a5；学习者尚未完成 Day01。
 - 主要约定：先讲解再出题；学习者亲手写代码；批改先提示再复查；按验收结果推进；GitHub 如实记录。
 
 每次完成审阅后更新此文件。新聊天先读取 README.md、PROGRESS.md、最近日志与当前代码，再继续教学。

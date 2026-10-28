@@ -8,7 +8,7 @@
 | JAVA_HOME | C:\Program Files\Java\jdk-17 | 与命令行实际版本一致 |
 | IntelliJ IDEA | 2025.1.3，产品代码 IU | 已安装；未检查许可证与插件启用状态 |
 | Maven | IDEA 自带 3.9.9，已执行版本检查 | 可以从 IDEA 使用；mvn 尚未加入 PATH |
-| Git | 2.45.1.windows.1 | 已能执行；远端推送认证尚未验证 |
+| Git | 2.45.1.windows.1 | 已执行并验证 HTTPS 推送到 Daily-Java 成功 |
 | VS Code | 1.132.0 | 可作备用编辑器，本路线优先使用 IDEA |
 | 其他 Java | 检测到 Java 8、JDK 19 等多个版本 | 本课程先固定 JDK 17，不必卸载旧版本 |
 | MySQL / PostgreSQL / 数据库 GUI | 本次检测未发现 | 第 15 周再确认并补充 MySQL |

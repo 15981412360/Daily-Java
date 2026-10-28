@@ -25,4 +25,4 @@
 
 ## GitHub 记录
 
-目标仓库：https://github.com/15981412360/Daily-Java 。本次仅准备首课模板，尚未完成学习；实际学习提交链接待审阅后补充。
+课程准备已上传：[feb36a5](https://github.com/15981412360/Daily-Java/commit/feb36a5)。本次仅准备首课模板，尚未完成学习；实际学习提交链接待审阅后补充。

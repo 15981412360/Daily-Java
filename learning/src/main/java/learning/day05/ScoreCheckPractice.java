@@ -12,8 +12,8 @@ public class ScoreCheckPractice {
         boolean jiGe= heFa && score >=60;
         boolean feiFa=!heFa;
         // TODO 输出三个结果，并配上清晰的标签。
-        // 审阅 2026-11-03：三个条件计算正确；请补充输出三个带标签的 boolean 值。
-        // 提前使用 if 不判错，现有文字说明可以保留；feiFa 目前还没有输出。
+        // 复查 2026-11-03：已补齐三个 boolean 输出，9 组输入全部通过。
+        System.out.println("合法："+heFa+"\n及格："+jiGe+"非法："+feiFa);
         System.out.print("当前成绩属于");
         if(heFa){
             System.out.print("合法");

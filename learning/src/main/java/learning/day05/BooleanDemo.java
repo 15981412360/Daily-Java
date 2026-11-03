@@ -2,7 +2,7 @@ package learning.day05;
 
 public class BooleanDemo {
     public static void main(String[] args) {
-        int temperature = 22;
+        int temperature = 12;
         boolean comfortable = temperature >= 18 && temperature <= 26;
         boolean extreme = temperature < 0 || temperature > 35;
         System.out.println("温度舒适：" + comfortable);
